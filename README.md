@@ -1,6 +1,6 @@
-# Petya TikTok Library site
+# Petya Library site
 
-Static GitHub Pages preparation for the Petya TikTok Library app.
+Static GitHub Pages preparation for the Petya Library app.
 
 ## Pages
 
